@@ -1,0 +1,9 @@
+All these files wor downloaded from official websites of the EU.
+
+The main one is EUR-Lex https://eur-lex.europa.eu
+
+They should be used in accordance with their publisher.
+
+As these are legal documents, they are only being used here for a demo.
+
+Do not use this for any legal reference!
